@@ -1,0 +1,17 @@
+
+BANKING TRANSACTION ANALYSIS REPORT
+===================================
+
+Total transactions: 9
+Total transaction amount: ₹33500.00
+Average transaction amount: ₹3722.22
+Maximum transaction amount: ₹10000.00
+Minimum transaction amount: ₹1500.00
+Standard deviation: ₹2427.97
+
+Transaction type summary:
+transaction_type
+Deposit         19000
+Transfer In      5500
+Transfer Out     5500
+Withdrawal       3500
